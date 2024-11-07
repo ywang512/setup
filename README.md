@@ -1,4 +1,4 @@
-# setup
+# Script and Tutorials Dump for Setting up Anything
 
 
 ### Multiple Github Accounts and SSH Keys
